@@ -1,0 +1,6 @@
+[submodule "neurophox"]
+	path = neurophox
+	url = https://github.com/solgaardlab/neurophox.git
+[submodule "neurophox-notebooks"]
+	path = neurophox-notebooks
+	url = https://github.com/solgaardlab/neurophox-notebooks.git
