@@ -271,3 +271,5 @@ class MOResultsVisualizer:
                                            horizontalalignment='right',
                                            fontsize=epoch_fontsize)
                 writer.grab_frame()
+
+

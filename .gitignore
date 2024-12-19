@@ -238,4 +238,6 @@ env copy/
 
 new_env/
 
+torch_env/
+
 neurophox-notebooks/
